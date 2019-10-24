@@ -1,3 +1,5 @@
 Hello from MN! It is a nice day.
 
 Hello from WI. It is rainy.
+
+Hello from WI. It is rainy.
