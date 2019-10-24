@@ -1,3 +1,4 @@
 Hello from MN! It is a nice day.
 
 Hello from WI. It is sunny.
+Hello from WI. It is sunny.
