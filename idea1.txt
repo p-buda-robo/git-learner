@@ -2,3 +2,5 @@ A great idea.
 Different place.
 
 Different place.
+
+This idea is only mine and no pull requests can go here :-)
